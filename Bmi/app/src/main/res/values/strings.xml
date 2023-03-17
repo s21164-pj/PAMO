@@ -1,0 +1,10 @@
+<resources>
+   <string name="app_name">BMI Calculator</string>
+   <string name="enter_amount">Enter Amount</string>
+   <string name="tip_percentage">15%</string>
+   <string name="tip">Tip</string>
+   <string name="total">Total</string>
+   <string name="enter_weight">Twoja Waga</string>
+   <string name="enter_height">Twój Wzrost</string>
+   <string name="bmi">BMI</string>
+</resources>
