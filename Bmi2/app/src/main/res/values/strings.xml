@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">bmi2</string>
+
+    <string name="enter_weight">Enter Weight</string>
+    <string name="enter_height">Enter Height</string>
+    <string name="bmi">BMI</string>
+    <string name="enter_age">Enter your age </string>
+    <string name="Energy_Burn">Energy Burn</string>
+    <string name="paragraph">
+
+        Pancakes\n
+        \n
+       Ingredients:\n
+1 1/2 cups all-purpose flour\n
+3 1/2 teaspoons baking powder\n
+1 teaspoon salt\n
+1 tablespoon white sugar\n
+1 1/4 cups milk\n
+1 egg\n
+3 tablespoons melted butter or oil\n
+Butter or oil for frying\n
+Maple syrup (or your preferred topping)\n
+        \n
+Instructions:\n
+
+In a large mixing bowl, whisk together the flour, baking powder, salt, and sugar.\n
+
+In a separate bowl, beat the egg, then add the milk and melted butter or oil. Whisk until well combined.\n
+
+Add the wet ingredients to the dry ingredients and stir until the batter is smooth and free of lumps.\n
+
+Heat a non-stick frying pan or griddle over medium-high heat. Once hot, add a small amount of butter or oil to the pan and swirl it around to coat the surface.\n
+
+Use a ladle or measuring cup to pour batter into the pan. Use about 1/4 cup of batter for each pancake, leaving space between them to prevent sticking.\n
+
+Cook for 1-2 minutes on the first side, or until the edges begin to look dry and the surface is bubbly. Flip the pancake and cook for an additional minute on the other side, until golden brown.\n
+
+Remove the pancake from the pan and repeat the process with the remaining batter, adding more butter or oil to the pan as needed.\n
+
+Serve the pancakes hot with maple syrup or your preferred toppings, such as fresh fruit, whipped cream, or chocolate chips.\n
+
+Enjoy your delicious and fluffy pancakes!\n
+
+    </string>
+</resources>
